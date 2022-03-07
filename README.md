@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @hai0hai
+- 🌱 I’m currently learning ASP NET 6
